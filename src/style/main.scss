@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 1136px;
+    /* padding-left: 199px; */
+    /* padding-right: 199px; */
+}
+.header {
+    max-width: 1600px;
+    border: solid 3px red; 
+}
+.header-flex {
+    display: flex;
+    /* justify-content: center; */
+}
+.header-img {
+    /* margin-right: 50%; */
+    display: block;
+    border: solid 3px red;    
+    background-image: url(../img/image92.jpg);
+    padding: 37px 383px 613px 198px;  
+    color: white;
+}
+.header-right {
+    /* margin-left: 50%; */
+    border: solid 3px red;
+    /* margin-left: 100px; */
+}
